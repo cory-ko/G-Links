@@ -1,0 +1,136 @@
+G-Links	uniprot:Resource	http://link.g-language.org/<id>/format=rdf	http://link.g-language.org/<id>	http://link.g-language.org/<id>/format=tsv
+dbSNP	EDAM:data_1106		http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=<id>	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=<id>
+SNPedia	EDAM:data_1106		http://www.snpedia.com/index.php?title=<id>	http://www.snpedia.com/index.php?title=<id>
+Genevestigator	uniprot:Resource		http://purl.uniprot.org/genevestigator/<id>	https://www.genevestigator.com/gv/directlink.jsp?geneIDs=<id>&geneIDType=SwissProt
+SWISS-2DPAGE	uniprot:Resource		http://purl.uniprot/org/swiss-2dpage/<id>	http://world-2dpage.expasy.org/swiss-2dpage/protein/ac=<id>
+euHCVdb	uniprot:Resource		http://purl.uniprot.org/euhcvdb/<id>	http://euhcvdb.ibcp.fr/euHCVdb/do/displayHCVEntry?primaryAC=<id>
+SGD	EDAM:data_2632		http://purl.uniprot.org/sgd/<id>	http://www.yeastgenome.org/cgi-bin/locus.fpl?dbid=<id>
+IPI	EDAM:data_2384		http://purl.uniprot.org/ipi/<id>	http://www.ebi.ac.uk/cgi-bin/dbfetch?db=IPI&id=<id>
+TAIR	EDAM:data_2387		http://purl.uniprot.org/tair/<id>	http://www.arabidopsis.org/servlets/TairObject?type=locus&name=<id>
+EnsemblBacteria	EDAM:data_1033		http://www.ensemblgenomes.org/id/<id>	http://www.ensemblgenomes.org/id/<id>
+EnsemblGenome	EDAM:data_1033		http://purl.uniprot.org/ensembl/<id>	http://www.ensemblgenomes.org/id/<id>
+PhosSite	EDAM:data_1376		http://purl.uniprot.org/phossite/<id>	http://www.phosphorylation.biochem.vt.edu/xpd2.cfm?extf=uniprot&extref=<id>
+WormBase_TRS			http://purl.uniprot.org/wormbase/<id>	http://www.wormbase.org/db/seq/sequence?name=<id>;class=Transcript
+TubercuList	EDAM:data_2295		http://purl.uniprot.org/tuberculist/<id>	http://tuberculist.epfl.ch/quicksearch.php?gene+name=<id>
+KEGG_Reaction	EDAM:data_2608		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/dbget-bin/www_bget?<id>
+KEGG_Pathway	EDAM:data_2343		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/kegg-bin/show_pathway?<id>
+KEGG_Disease	EDAM:data_1150		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/dbget-bin/www_bget?<id>
+GenoList	uniprot:Resource		http://purl.uniprot.org/genolist/<id>	http://genodb.pasteur.fr/cgi-bin/WebObjects/GenoList.woa/wa/goToGene?accNum=<id>
+GeneTree	uniprot:Resource			http://asia.ensembl.org/Multi/GeneTree/Image?gt=<id>
+EchoBASE	uniprot:Resource		http://purl.uniprot.org/echobase/<id>	http://www.york.ac.uk/res/thomas/Gene.cfm?recordID=<id>
+EcoGene	EDAM:data_1795		http://purl.uniprot.org/ecogene/<id>	http://www.ecogene.org/geneInfo.php?eg_id=<id>
+AGD			http://purl.uniprot.org/agd/<id>	http://agd.vital-it.ch/Ashbya_gossypii/geneview?gene=<id>
+PROSITE	uniprot:Resource		http://purl.uniprot.org/prosite/<id>	http://prosite.expasy.org/cgi-bin/prosite/nicedoc.pl?<id>
+OMA	uniprot:Resource		http://purl.uniprot.org/oma/<id>	http://omabrowser.org/cgi-bin/gateway.pl?f=DisplayGroup&p1=<id>
+NMPDR	EDAM:data_2737		http://purl.uniprot.org/nmpdr/<id>	http://www.nmpdr.org/linkin.cgi?id=<id>|<id>
+MRROPS			http://purl.uniprot.org/merops/<id>	http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=<id>
+eggNOG	uniprot:Resource		http://purl.uniprot.org/eggnog/<id>	http://eggnog.embl.de/version_3.0/cgi/search.py?search_term_0=<id>&search_species_0=-1
+UniParc	EDAM:data_2392		http://purl.uniprot.org/uiparc/<id>	http://www.uniprot.org/uniparc/<id>
+PeroxiBase	EDAM:data_2792		http://purl.uniprot.org/peroxibase/<id>	http://peroxibase.toulouse.inra.fr/listing.php?action=view&id=<id>
+PharmGKB	EDAM:data_2649		http://purl.uniprot.org/pharmgkb/<id>	http://www.pharmgkb.org/do/serve?objId=<id>&objCls=Gene
+ProtClustDB	uniprot:Resource		http://purl.uniprot.org/protclustdb/<id>	http://www.ncbi.nlm.nih.gov/sites/entrez?Db=proteinclusters&Cmd=DetailsSearch&Term=<id>
+Pfam	EDAM:data_1138		http://purl.uniprot.org/pfam/<id>	http://pfam.sanger.ac.uk/family?acc=<id>
+Ensembl_TRS			http://purl.uniprot.org/ensembl/<id>	http://www.ensembl.org/id/<id>
+PhosphoSite	uniprot:Resource			http://www.phosphosite.org/uniprotAccAction.do?id=<id>
+dictyBase	uniprot:Resource		http://purl.uniprot.org/dictybase/<id>	http://dictybase.org/db/cgi-bin/gene_page.pl?primary_id=<id>
+EuPathDB	uniprot:Resource		http://purl.uniprot.org/eupathdb/<id>	http://www.eupathdb.org/gene/<id>
+COG	EDAM:data_1113		http://www.ncbi.nlm.nih.gov/COG/grace/wiew.cgi?<id>	http://www.ncbi.nlm.nih.gov/COG/grace/wiew.cgi?<id>
+SMR	uniprot:Resource			http://swissmodel.expasy.org/repository/smr.php?sptr_ac=<id>
+World-2DPAGE	uniprot:Resource		http://purl.uniprot.org/world-2dpage/<id>	http://world-2dpage.expasy.org/repository/<id>
+TCDB	EDAM:data_2614		http://purl.uniprot.org/tcdb/<id>	http://www.tcdb.org/search/result.php?tc=<id>
+SignalingGateway			http://www.signaling-gateway.org/molecule/query?afcsid=<id>	http://www.signaling-gateway.org/molecule/query?afcsid=<id>
+REBASE	EDAM:data_2325		http://purl.uniprot.org/rebase/<id>	http://rebase.neb.com/rebase/enz/<id>.html
+UCSC	uniprot:Resource		http://purl.uniprot.org/ucsc/<id>	http://genome.ucsc.edu/cgi-bin/hgGene?hgg_gene=<id>&org=rat
+HAMAP	EDAM:data_2766		http://purl.uniprot.org/hamap/<id>	http://hamap.expasy.org/unirule/<id>
+EC_number	EDAM:data_1011		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/dbget-bin/www_bget?<id>
+ArrayExpress	EDAM:data_1144			http://www.ebi.ac.uk/gxa/gene?gid=<id>
+HPA	EDAM:data_2772		http://purl.uniprot.org/hpa/<id>	http://www.proteinatlas.org/tissue_profile.php?antibody_id=<id>
+VectorBase	EDAM:data_2759		http://purl.uniprot.org/vectorbase/<id>	http://www.vectorbase.org/Genome/BRCGene/?gene=<id>
+ConoServer	EDAM:data_2804		http://purl.uniprot.org/conoserver/<id>	http://www.conoserver.org/?page=card&table=protein&id=<id>
+EMBL-CDS	uniprot:Nucleotide_Resource		http://purl.uniprot.org/embl-cds/<id>	http://www.ebi.ac.uk/ena/data/view/<id>
+EnsemblGenome_TRS		http://bio2rdf.org/rdfxml/ensembl:<id>	http://purl.uniprot.org/ensembl/<id>	http://www.ensemblgenomes.org/id/<id>
+neXtProt	uniprot:Resource		http://purl.uniprot.org/nextprot/<id>	http://www.nextprot.org/db/entry/<id>
+NextBio	uniprot:Resource		http://purl.uniprot.org/nextbio/<id>	http://www.nextbio.com/b/home/home.nb?id=<id>&type=feature
+GeneCards	uniprot:Resource		http://purl.uniprot.org/genecards/<id>	http://www.genecards.org/cgi-bin/carddisp.pl?gc_id=<id>
+MINT	EDAM:data_2615		http://purl.uniprot.org/mint/<id>	http://mint.bio.uniroma2.it/mint/search/search.do?queryType=protein&interactorAc=<id>
+Ensembl_PRO			http://purl.uniprot.org/ensembl/<id>	http://www.ensembl.org/id/<id>
+OrthoDB	uniprot:Resource		http://purl.uniprot.org/orthodb/<id>	http://cegg.unige.ch/orthodb/results?searchtext=<id>
+SMART	EDAM:data_1139		http://purl.uniprot.org/smart/<id>	http://smart.embl.de/smart/do_annotation.pl?DOMAIN=<id>
+LegioList	uniprot:Resource		http://purl.uniprot.org/legiolist/<id>	http://genolist.pasteur.fr/LegioList/genome.cgi?external_query+<id>
+ArachnoServer	EDAM:data_2578		http://purl.uniprot.org/arachnoserver/<id>	http://www.arachnoserver.org/toxincard.html?id=<id>
+# ECO2DBASE	uniprot:Resource		http://purl.uniprot.org/eco2dbase/<id>	<id>
+MaizeGDB	uniprot:Resource		http://purl.uniprot.org/maizegdb/<id>	http://www.maizegdb.org/cgi-bin/id_search.cgi?id=<id>
+Reactome	EDAM:data_1155		http://purl.uniprot.org/reactome/<id>	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=<id>
+PANTHER	uniprot:Resource		http://purl.uniprot.org/panther/<id>	http://www.pantherdb.org/panther/family.do?clsAccession=<id>
+MGI	EDAM:data_1792		http://purl.uniprot.org/mgi/<id>	http://www.informatics.jax.org/searches/accession_report.cgi?id=<id>
+CGD	EDAM:data_1031		http://purl.uniprot.org/cgd/<id>	http://www.candidagenome.org/cgi-bin/locus.pl?dbid=<id>
+PomBase	uniprot:Resource		http://purl.uniprot.org/pombase/<id>	http://www.pombase.org/spombe/result/<id>
+HOGENOM	uniprot:Resource		http://purl.uniprot.org/hogenom/<id>	http://pbil.univ-lyon1.fr/cgi-bin/view-tree.pl?query=<id>&db=HOGENOM6
+PhylomeDB	uniprot:Resource			http://phylomedb.org/?seqid=<id>
+TIGR	EDAM:data_1036		http://purl.uniprot.org/tigr/<id>	http://cmr.jcvi.org/tigr-scripts/CMR/shared/GenePage.cgi?locus=<id>
+GermOnline	EDAM:data_1148		http://purl.uniprot.org/germonline/<id>	http://www.germonline.org/Arabidopsis_thaliana/geneview?gene=<id>
+DrugBank	EDAM:data_2326		http://purl.uniprot.org/drugbank/<id>	http://www.drugbank.ca/drugs/<id>
+RGD			http://purl.uniprot.org/rgd/<id>	http://rgd.mcw.edu/tools/genes/genes_view.cgi?id=<id>
+GeneFarm	EDAM:data_1885		http://purl.uniprot.org/genefarm/<id>	http://urgi.versailles.inra.fr/Genefarm/Gene/display_gene.htpl?GENE_ID=<id>
+HSSP	uniprot:Resource		http://purl.uniprot.org/hssp/<id>	http://www.uniprot.org/uniprot/<id>
+InParanoid				http://inparanoid.sbc.su.se/cgi-bin/gene_search.cgi?id=<id>
+FlyBase	EDAM:data_1089		http://purl.uniprot.org/flybase/<id>	http://flybase.org/reports/<id>
+HGNC	uniprot:Resource		http://purl.uniprot.org/hgnc/<id>	http://www.genenames.org/data/hgnc_data.php?hgnc_id=<id>
+Leproma			http://purl.uniprot.org/leproma/<id>	http://mycobrowser.epfl.ch/leprosysearch.php?gene+name=<id>
+PptaseDB			http://purl.uniprot.org/pptasedb/<id>	http://www.phosphatase.biochem.vt.edu/p3d2.cfm?extf=accession&extref=<id>
+EnsemblGenome_PRO		http://bio2rdf.org/rdfxml/ensembl:<id>	http://purl.uniprot.org/ensembl/<id>	http://www.ensemblgenomes.org/id/<id>
+KEGG_Orthology	uniprot:Resource		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/dbget-bin/www_bget?<id>
+CYGD			http://purl.uniprot.org/cygd/<id>	http://mips.gsf.de/genre/proj/yeast/singleGeneReport.html?entry=<id>
+CleanEx	EDAM:data_2710		http://purl.uniprot.org/cleanex/<id>	http://www.cleanex.isb-sib.ch/cgi-bin/get_doc?db=cleanex&format=nice&entry=<id>
+MIM	uniprot:Resource		http://purl.uniprot.org/mim/<id>	http://www.ncbi.nlm.nih.gov/omim/<id>
+Xenbase			http://purl.uniprot.org/xenbase/<id>	http://www.xenbase.org/gene/showgene.do?method=display&geneId=<id>
+# Aarhus/Ghent-2DPAGE			http://purl.uniprot.org/aarhus-ghent-2dpage/<id>	<id>
+GO_process	EDAM:data_1727		http://purl.uniprot.org/go/<id>	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=<id>
+GO_function	EDAM:data_1728		http://purl.uniprot.org/go/<id>	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=<id>
+GO_component	EDAM:data_1729		http://purl.uniprot.org/go/<id>	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=<id>
+GOslim_process	EDAM:data_1727		http://purl.uniprot.org/go/<id>	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=<id>
+GOslim_function	EDAM:data_1728		http://purl.uniprot.org/go/<id>	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=<id>
+GOslim_component	EDAM:data_1729	http://bio2rdf.org/rdfxml/<id>	http://purl.uniprot.org/go/<id>	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=<id>
+WormBase	uniprot:Transcript_Resource		http://purl.uniprot.org/wormbase/<id>	http://www.wormbase.org/db/gene/gene?name=<id>;class=Gene
+SUPFAM	uniprot:Resource		http://purl.uniprot.org/supfam/<id>	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=<id>
+PRINTS	EDAM:data_1137		http://purl.uniprot.org/prints/<id>	http://umber.sbs.man.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?display_opts=Prints&category=None&queryform=false&prints_accn=<id>
+PID			http://pid.nci.nih.gov/MoleculePage?molid=<id>	http://pid.nci.nih.gov/MoleculePage?molid=<id>
+H-InvDB	EDAM:data_2771		http://purl.uniprot.org/h-invdb/<id>	http://h-invitational.jp/hinv/spsoup/locus_view?hix_id=<id>
+GI	EDAM:data_2314		http://purl.uniprot.org/geneid/<id>	http://www.ncbi.nlm.nih.gov/protein/<id>
+PseudoCAP	EDAM:data_2744		http://purl.uniprot.org/pseudocap/<id>	http://www.pseudomonas.com/getAnnotation.do?locusID=<id>
+HOVERGEN	uniprot:Resource		http://purl.uniprot.org/hovergen/<id>	http://pbil.univ-lyon1.fr/cgi-bin/acnuc-ac2tree?query=<id>&db=HOVERGEN
+Orphanet	uniprot:Resource		http://purl.uniprot.org/orphanet/<id>	http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=EN&Expert=<id>
+ZFIN	EDAM:data_2643		http://purl.uniprot.org/zfin/<id>	http://zfin.org/cgi-bin/webdriver?MIval=aa-markerview.apg&OID=<id>
+WormBase_PRO			http://purl.uniprot.org/wormbase/<id>	http://www.wormbase.org/db/seq/protein?name=WP:<id>;class=Protein
+UniGene	EDAM:data_1029		http://purl.uniprot.org/unigene/<id>	http://www.ncbi.nlm.nih.gov/UniGene/clust.cgi?ORG=At&CID=<id>
+ENZYME	EDAM:data_1011		http://enzyme.expasy.org/EC/<id>	http://enzyme.expasy.org/EC/<id>
+IntEnz	EDAM:data_2321		http://www.ebi.ac.uk/intenz/query?cmd=Search&q=<id>	http://www.ebi.ac.uk/intenz/query?cmd=Search&q=<id>
+BioGRID	EDAM:data_2628		http://thebiogrid.org/<id>/	http://thebiogrid.org/<id>/
+DIP	EDAM:data_2616		http://purl.uniprot.org/dip/<id>	http://dip.doe-mbi.ucla.edu/dip/Browse.cgi?ID=<id>
+BioCyc	EDAM:data_2140		http://purl.uniprot.org/biocyc/<id>	http://biocyc.org/getid?id=<id>
+EMBL	EDAM:data_2290		http://purl.uniprot.org/embl/<id>	http://www.ebi.ac.uk/ena/data/view/<id>
+IntAct	EDAM:data_1130		http://www.ebi.ac.uk/intact/pages/interactions/interactions.xhtml?query=<id>*	http://www.ebi.ac.uk/intact/pages/interactions/interactions.xhtml?query=<id>*
+InterPro	EDAM:data_1133		http://purl.uniprot.org/interpro/<id>	http://www.ebi.ac.uk/interpro/IEntry?ac=<id>
+KEGG_Gene	EDAM:data_2103		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/dbget-bin/www_bget?<id>
+KEGG_Brite	EDAM:data_2591		http://purl.uniprot.org/kegg/<id>	http://www.genome.jp/dbget-bin/www_bget?<id>
+GeneID	EDAM:data_1027		http://purl.uniprot.org/geneid/<id>	http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&term=<id>
+TIGRFAMs	EDAM:data_1141		http://purl.uniprot.org/tigrfams/<id>	http://cmr.jcvi.org/tigr-scripts/CMR/HmmReport.cgi?hmm_acc=<id>
+UniProtKB	EDAM:data_2291		http://purl.uniprot.org/uniprot/<id>	http://www.uniprot.org/uniprot/<id>
+UniProtKB-AC	EDAM:data_3021		http://purl.uniprot.org/uniprot/<id>	http://www.uniprot.org/uniprot/<id>
+GenomeReviews	EDAM:data_2751		http://purl.uniprot.org/genomereviews/<id>	http://www.genomereviews.ebi.ac.uk/GR/contigview?chr=<id>
+RefSeq	EDAM:data_1028		http://purl.uniprot.org/refseq/<id>	http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&id=<id>
+UniRef100	EDAM:data_2347		http://purl.uniprot.org/uniref/<id>	http://www.uniprot.org/uniref/<id>
+UniRef90	EDAM:data_2348		http://purl.uniprot.org/uniref/<id>	http://www.uniprot.org/uniref/<id>
+UniRef50	EDAM:data_2349		http://purl.uniprot.org/uniref/<id>	http://www.uniprot.org/uniref/<id>
+DisProt	EDAM:data_2723		http://purl.uniprot.org/disprot/<id>	http://www.disprot.org/protein.php?id=<id>
+ProteinModelPortal	uniprot:Resource		http://purl.uniprot.org/proteinmodelportal/<id>	http://www.proteinmodelportal.org/query/uniprot/<id>
+Gene3D	EDAM:data_1135		http://purl.uniprot.org/gene3d/<id>	http://www.cathdb.info/cgi-bin/GotoCath.pl?cath=<id>
+PDBsum	EDAM:data_1070		http://purl.uniprot.org/pdbsum/<id>	http://www.ebi.ac.uk/pdbsum/<id>
+PDB	EDAM:data_1127		http://purl.uniprot.org/pdb/<id>	http://www.ebi.ac.uk/pdbe-srv/view/entry/<id>
+Ensembl	EDAM:data_2610		http://purl.uniprot.org/ensembl/<id>	http://www.ensembl.org/id/<id>
+AminoSequence	EDAM:data_2976		http://www.uniprot.org/uniprot/<id>.fasta	http://www.uniprot.org/uniprot/<id>.fasta
+PubMed	EDAM:data_1187		http://purl.uniprot.org/pubmed/<id>	http://www.ncbi.nlm.nih.gov/pubmed/<id>
+DOI	EDAM:data_1188		http://dx.doi.org/<id>	http://dx.doi.org/<id>
+COXPRESdb	uniprot:Resource		http://coxpresdb.jp/data/gene/<id>.shtml	http://coxpresdb.jp/data/gene/<id>.shtml
+STRING	EDAM:data_2302		http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<id>	http://string-db.org/newstring_cgi/show_network_section.pl?identifier=<id>
+Jabion	EDAM:data_2768		http://www.bioportal.jp/genome/cgi-bin/gene_homolog.cgi?org=hs&id=<id>	http://www.bioportal.jp/genome/cgi-bin/gene_homolog.cgi?org=hs&id=<id>

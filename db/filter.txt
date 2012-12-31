@@ -1,0 +1,16 @@
+Structure	PDB,PDBsum,HSSP,Gene3D,ProteinModelPortal,DisProt,SMR
+3D-Structure	PDB,PDBsum,HSSP,Gene3D,ProteinModelPortal,DisProt,SMR
+SuperFamily	SUPFAM
+Family	InterPro,MEROPS,PROSITE,Family,SUPFAM,PANTHER,HAMAP
+Domain	InterPro,Pfam,MEROPS,PROSITE,SMART,PRINTS
+Ortholog	KEGG_Orthology,COG,OrthoDB
+GO	GO_function,GO_component,GO_process,GOslim_function,GOslim_component,GOslim_process
+GOslim	GOslim_function,GOslim_component,GOslim_process
+PPI	IntAct,STRING,PIPs,MINT,DIP
+PGI	BioGrid
+PRI	PRIDB
+Pathway	KEGG_Pathway,BioCyc,Reactome,PID
+Enzyme	EC_number,ENZYME,IntEnz
+Expression	ArrayExpress
+Phylogenomic	GeneTree,PhylomeDB,InParanoid
+PTM	PhosphoSite,PhosSite

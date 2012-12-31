@@ -1,0 +1,7 @@
+db/*.fasta
+db/*.info
+db/*.nstore
+db/*.dat
+db/genie
+*~
+tmp
